@@ -1,11 +1,12 @@
 @media (max-width: 1200px){
 
     .lf{
-        max-width: 50%;
+        max-width: 40%;
+        max-height: 30%;
     }
 
     .imagemywinna{
-        max-width: 50%;
+        max-width: 40%;
     }
 
 };

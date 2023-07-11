@@ -7,7 +7,7 @@ body{
     float: right;
     max-width: 400px;
     height: 400px;
-    gap: 25px;
+    margin-left: 20%;
 }
 
 .imagemywinna {
@@ -15,9 +15,8 @@ body{
     background-color: rgb(179, 255, 255);
     max-width: 400px;
     height: 400px;
-    gap: 25px;
+    margin: auto;
 }
-
 .caixa-clicavel {
     
     align-items: center;
@@ -29,7 +28,7 @@ body{
     
     align-items: center;
     float: center;
-    background-color: blue;
+    background-color: #F7C8A1;
 }
 
 
